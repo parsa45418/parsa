@@ -1,0 +1,6 @@
+{
+  "name": "فروشگاه سخت‌افزار کامپیوتر",
+  "description": "فروشگاه آنلاین و تخصصی قطعات سخت‌افزار کامپیوتر با معماری و دیزاین الهام‌گرفته از Eyebot، استایل‌های اکسترنال، اسکنر ۹۰ ثانیه‌ای و دسته‌بندی CPU، GPU و RAM",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
